@@ -7,7 +7,7 @@ At the heart of this project is the feedback loop which will provide your microc
 ## Signal Conditioning - Thermistor
 If you want to use a thermistor, you will need to build a circuit to convert a change in resistance to a change in voltage. You will also need to pick the correct values of resistances and gain to ensure that you have the maximum resolution in your signal. This sensor is also non-linear, so you need to look at the differences between linearization and utilizing the Stein-Hart Hart equation to determine the temperature.
 
-## Signal Conditioning - PTAT
+## Signal Conditioning - [PTAT](https://en.wikipedia.org/wiki/Bandgap_voltage_reference)
 Since the PTAT provides you with a voltage which is proportional to the temperature, very little signal conditioning is needed in order to work with this device. You should be able to quickly develop code which can read from this sensor and output the temperature over UART.
 
 ## Displaying Temperature
