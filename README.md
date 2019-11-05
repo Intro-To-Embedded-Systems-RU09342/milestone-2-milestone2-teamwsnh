@@ -8,6 +8,7 @@ Each of these sections has it's own set of detailed instructions and should be w
 
 All of these parts are tightly integrated into the overall milestone project, so you will not be asked for a README for each part. Instead your project will just need ONE README that discusses what has been done as well as how to implement the code onto your board. Think of this as creating a project you'd find online that you'd wanted to implement. The README would briefly talk about what the project is, the hardware required, and how to program the boards. Your code still needs to be commented well because your audience wants to deeply understand HOW it was done. 
 
+Please carefully read (and re-read) all three sections of this milestone, use your problem-solving process to do the research (wikipedia, tutorials, and examples), and then make a plan of how you going to approach the work. This is as much an excersise in research, planning, and time managmenet as it is in development. As with Milestone 1, everything will be due at once, but note the difference in deliverables.
 
 ## Milestone 2 Grading
 Your grade will be dependent not only on your code, commenting, and report, but also on the performance of the system during your testing. The Milestone Grade is broken down as:
