@@ -4,10 +4,12 @@ One of the bigger applications of Embedded Systems is the Closed Loop control sy
 * Open Loop System Characterization
 * Closed Loop System Characterization
 
-All of these parts are tightly integrated into the overall milestone project, so you will not be asked for a README for each part. Instead your project will just need ONE README that discusses what has been done as well as how to implement the code onto your board. Again, think of this like if you saw this project online and wanted to implement it. The README would talk about what it is quickly, what is the hardware required, and how to get it down to your boards. Your code still needs to be commented well.
+Each of these sections has it's own set of detailed instructions and should be worked in the above order.
+
+All of these parts are tightly integrated into the overall milestone project, so you will not be asked for a README for each part. Instead your project will just need ONE README that discusses what has been done as well as how to implement the code onto your board. Think of this as creating a project you'd find online that you'd wanted to implement. The README would briefly talk about what the project is, the hardware required, and how to program the boards. Your code still needs to be commented well because your audience wants to deeply understand HOW it was done. 
 
 
-## Grading
+## Milestone 2 Grading
 Your grade will be dependent not only on your code, commenting, and report, but also on the performance of the system during your testing. The Milestone Grade is broken down as:
 
 * 30% App Note
@@ -17,7 +19,7 @@ Your grade will be dependent not only on your code, commenting, and report, but 
 * 10% Warm to Hot
 * 10% Disturbance Resilience
 
-For the actual tests, your system will be graded on two main factors, stability and steady state performance. Each of the 10% portions will be broken up into 7% and 3% for the Steady State and Stability Respectively. All grades are given in the following form GroupOf2/GroupOf3 since larger groups will be expected to have better performance. The brackets for these grades are:
+For the actual tests (demo day), your system will be graded on two main factors, stability and steady state performance. Each of the 10% portions will be broken up into 7% and 3% for the Steady State and Stability Respectively. All grades are given in the following form depending on whether you are working in a GroupOf2/GroupOf3 since larger groups will be expected to have better performance. The brackets for these grades are:
 
 ### Steady State (7%)
 * 7 points: Steady state performance is within 3C/1.5C of the specified temperature
